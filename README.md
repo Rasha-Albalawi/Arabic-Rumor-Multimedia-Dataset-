@@ -16,9 +16,8 @@ The dataset is annotated as 0 and 1, where 0 denotes rumor tweets, and 1 denotes
 | 1793          | 2232          | 4025 |
 
 ## **Contacts** <br />
-To get additional information please contact 
-rsalemalbalawi@stu.kau.edu.sa or rm.albalawi@ut.edu.sa.
-		 
+To get additional information, please contact 
+rsalemalbalawi@stu.kau.edu.sa 
 		
 
 
